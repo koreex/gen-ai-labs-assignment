@@ -62,9 +62,7 @@ python scripts/benchmark.py --runs 3
   - Average latency: `~2900ms`
   - p50 latency: `~2500ms`
   - p95 latency: `~4700ms`
-  - Success rate: `___ %`
   - Avg tokens/request: `~600`
-  - Avg LLM calls/request: `___`
 
 - **After** (this solution):
   - Average latency: `~2300ms`

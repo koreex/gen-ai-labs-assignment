@@ -209,20 +209,20 @@ Not implemented (optional).
 Include your before/after benchmark results here.
 
 **Baseline (if you measured):**
-- Average latency: `___ ms`
-- p50 latency: `___ ms`
-- p95 latency: `___ ms`
+- Average latency: `2900 ms`
+- p50 latency: `2500 ms`
+- p95 latency: `4700 ms`
 - Success rate: `___ %`
 
 **Your solution:**
-- Average latency: `___ ms`
-- p50 latency: `___ ms`
-- p95 latency: `___ ms`
-- Success rate: `___ %`
+- Average latency: `2300 ms`
+- p50 latency: `2100 ms`
+- p95 latency: `2500 ms`
+- Success rate: `91-100 %`
 
 **LLM efficiency:**
-- Average tokens per request: `___`
-- Average LLM calls per request: `___`
+- Average tokens per request: `450`
+- Average LLM calls per request: `2.05`
 
 ---
 

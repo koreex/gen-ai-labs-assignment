@@ -226,6 +226,6 @@ Include your before/after benchmark results here.
 
 ---
 
-**Completed by:** [Your Name]
-**Date:** [Date]
-**Time spent:** [Hours spent on assignment]
+**Completed by:** Koreex Jin
+**Date:** 04/06/2026
+**Time spent:** 6 hours
